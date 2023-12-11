@@ -1,0 +1,25 @@
+.banner {
+  background-color: #213ea0;
+  padding: 10px 0;
+}
+
+.banner h1 {
+  font-weight: 700;
+}
+footer a {
+  color: #fff;
+}
+.score{
+  color:#213ea0;
+  padding-bottom: 330px;
+}
+.heading{
+  color:orangered;
+}
+.login{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.mainHeading{
+  color: #EEEDFF;
+}
