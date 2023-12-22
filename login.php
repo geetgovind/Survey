@@ -24,7 +24,7 @@ try {
         } else {
             echo "<script>alert('Invalid username or password. You will be redirected to login page in a bit. ')</script>";  
             // Redirect to index.php after 5 seconds
-            header("refresh:5; url=index.php");     
+            header("refresh:1; url=index.php");     
         }
     }
 } catch (PDOException $e) {
