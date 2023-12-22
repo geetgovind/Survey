@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-lg-3 mb-lg-0 mb-4 mb-md-5">
                     <div class="mb-2 mb-md-4">Email: <a href="mailto:ndear-moe@gov.in">ndear-moe[at]gov[dot]in</a></div>
-                    <div>Nehru Bhawan, CIET, <br>
+                    <div>Chacha Nehru Bhawan, CIET, <br>
                         NCERT, New Delhi - 110016</div>
                 </div>
                 <div class="col-lg-9">
